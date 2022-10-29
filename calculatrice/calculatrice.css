@@ -1,0 +1,13 @@
+body{
+	float: center;
+}
+.screen{
+	width: 420px;
+}
+.btn{
+	width: 70px;
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
